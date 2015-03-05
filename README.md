@@ -1,2 +1,2 @@
 # hello-world
-First GitHub repo
+First GitHub repo - just a Java Hello World
